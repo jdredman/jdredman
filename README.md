@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jdredman
+- 👀 I’m interested in Design & Development
+- 🌱 I’m currently learning React
+- 📫 jdredman@gmail.com
